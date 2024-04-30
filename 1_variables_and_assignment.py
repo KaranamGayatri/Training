@@ -7,3 +7,6 @@ print(B)
 # create a third variable and assign it a boolean value
 C=True
 print(C)
+# re-assign a different integer to the first variable you created"
+A= 21
+print(A)
