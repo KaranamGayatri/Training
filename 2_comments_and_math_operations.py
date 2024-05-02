@@ -4,3 +4,6 @@ print(A)
 #Create a variable and assign it the difference of two integers
 B = 14-5
 print(B)
+#Create a variable and assign it the result of one integer being divided by another integers
+C = 500/5
+print(C)
