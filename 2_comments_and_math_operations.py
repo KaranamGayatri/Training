@@ -10,3 +10,6 @@ print(C)
 #Create a variable and assign it the product of two integers
 D = 6*8
 print(D)
+#Create a variable and assign it the result of 3 raised to the 8th power
+E = 3**8
+print(E)
