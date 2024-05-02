@@ -19,4 +19,3 @@ print(F)
 #Create a variable and assign it the integer 2 using the expression 17 modulo
 G = 17%5
 print(G)
-
