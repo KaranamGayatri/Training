@@ -13,3 +13,6 @@ print(D)
 #Create a variable and assign it the result of 3 raised to the 8th power
 E = 3**8
 print(E)
+#Create a variable and assign it the result of 10 floor division 3
+F = 10//3
+print(F)
