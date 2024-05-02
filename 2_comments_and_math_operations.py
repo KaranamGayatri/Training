@@ -7,3 +7,6 @@ print(B)
 #Create a variable and assign it the result of one integer being divided by another integers
 C = 500/5
 print(C)
+#Create a variable and assign it the product of two integers
+D = 6*8
+print(D)
