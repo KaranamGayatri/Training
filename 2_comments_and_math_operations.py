@@ -16,3 +16,7 @@ print(E)
 #Create a variable and assign it the result of 10 floor division 3
 F = 10//3
 print(F)
+#Create a variable and assign it the integer 2 using the expression 17 modulo
+G = 17%5
+print(G)
+
