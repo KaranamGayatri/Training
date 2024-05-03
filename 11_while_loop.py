@@ -1,4 +1,4 @@
-#Print number 10 to 1 by using while loop 
+#Print number 10 to 1 by using while loop
 i = 10
 
 while i != 0:
