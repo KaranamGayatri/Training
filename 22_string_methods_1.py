@@ -28,3 +28,6 @@ print(mixed_case.startswith('A'))
 #Call endswith() on mixed_case with the letter mixed_case ends with as its argument
 print(mixed_case.endswith('e'))
 
+#Create a variable called words and assign it the result of split() being used on mixed_case
+words = mixed_case.split()
+
