@@ -22,3 +22,6 @@ title_case = mixed_case.title()
 #print() title_case
 print(title_case)
 
+#Call startswith() on mixed_case with the letter mixed_case starts with as its argument.
+print(mixed_case.startswith('A'))
+
