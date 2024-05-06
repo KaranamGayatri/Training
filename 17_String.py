@@ -12,3 +12,7 @@ print(String[-3:])
 
 #Print the slice "Just" from the variable
 print(String[:4])
+
+#Get the string slice "do it!" from the variable and concatenate it with the string "Don't ".  Print the resulting string, which should be "Don't do it!" where the "do it!" part is a slice.
+string_concatenate = "Don't" + String[4:]
+print(string_concatenate)
