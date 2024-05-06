@@ -31,3 +31,6 @@ print(mixed_case.endswith('e'))
 #Create a variable called words and assign it the result of split() being used on mixed_case
 words = mixed_case.split()
 
+#print the variable "words"
+print(words)
+
