@@ -7,5 +7,8 @@ print(mixed_case.isupper())
 #Use .islower() to check if mixed_case is a string of all lower case letters
 print(mixed_case.islower())
 
-#Change all of the letters in mixed_case to upper case letters
+#Change all of the letters in mixed_case to upper case letters using .upper()
 print(mixed_case.upper())
+
+#Change all of the letters in mixed_case to lower case letters using .lower()
+print(mixed_case.lower())
