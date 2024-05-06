@@ -9,3 +9,6 @@ print(String[5:7])
 
 #Get and print the slice "it!" from the variable
 print(String[-3:])
+
+#Print the slice "Just" from the variable
+print(String[:4])
