@@ -34,3 +34,5 @@ words = mixed_case.split()
 #print the variable "words"
 print(words)
 
+#Use the .join() method to join together and Use .isalpha() to check if the string is made up entirely of letters
+print("".join(words).isalpha())
