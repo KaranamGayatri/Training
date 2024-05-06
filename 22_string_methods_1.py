@@ -18,4 +18,7 @@ print(mixed_case.istitle())
 
 #Create a variable called title_case and assign it the result of .title() being called on mixed_case.
 title_case = mixed_case.title()
+
+#print() title_case
 print(title_case)
+
