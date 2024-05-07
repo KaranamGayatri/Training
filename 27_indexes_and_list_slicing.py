@@ -19,3 +19,6 @@ print("Most people own at least " + str(first_list[1]) + " " + Second_List[0]+ "
 
 #Create a third variable and assign it the list [0.98, 8.76, 6.54, 4.32]
 Third_List = [0.98, 8.76, 6.54, 4.32]
+
+#Print the slice [8.76, 6.54, 4.32] from the variable
+print(Third_List[1:])
