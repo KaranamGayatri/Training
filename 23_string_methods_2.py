@@ -18,3 +18,6 @@ print(the_string.lstrip("North"))
 
 #Call .rstrip() on center_plus with "+" as its argument and print() the result
 print(center_plus.rstrip("+"))
+
+#Call .strip() on center_plus with "+" as its argument and print() the result
+print(center_plus.strip("+"))
