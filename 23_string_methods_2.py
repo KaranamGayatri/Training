@@ -9,4 +9,6 @@ print(the_string.ljust(17,"*"))
 
 #Create a variable called center_plus and assign it the result of .center() being called on the_string with 16 and "+" as arguments
 center_plus = the_string.center(16,"+")
+
+#Use print() to display the string assigned to center_plus.
 print(center_plus)
