@@ -10,3 +10,6 @@ print(List[3][1])
 
 #Create a second variable and assign it the list ["chair", "table", "desk", "lamp", "bed"]
 Second_List = ["chair", "table", "desk", "lamp", "bed"]
+
+#Use a negative integer to access "chair" from the variable in step 4 by index then print it
+print(Second_List[-5])
