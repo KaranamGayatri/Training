@@ -25,3 +25,6 @@ print(Third_List[1:])
 
 #Print the slice [8.76, 6.54] from the variable
 print(Third_List[1:3])
+
+#Print the slice [0.98, 8.76] from the variable
+print(Third_List[:2])
