@@ -21,3 +21,6 @@ print(center_plus.rstrip("+"))
 
 #Call .strip() on center_plus with "+" as its argument and print() the result
 print(center_plus.strip("+"))
+
+#Call .replace() on the_string and replace "North" with "South".  print() the result
+print(the_string.replace("North", "South"))
