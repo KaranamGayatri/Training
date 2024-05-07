@@ -15,3 +15,6 @@ print(center_plus)
 
 #Call .lstrip() on the_string to remove "North" then print() the result.
 print(the_string.lstrip("North"))
+
+#Call .rstrip() on center_plus with "+" as its argument and print() the result
+print(center_plus.rstrip("+"))
