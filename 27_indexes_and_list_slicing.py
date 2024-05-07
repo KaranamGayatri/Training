@@ -16,3 +16,6 @@ print(Second_List[-5])
 
 #Print "Most people own at least 2 chairs." by concatenating the 2 from the list and the "chair" from the second list with "Most people own at least ", a space, and a period
 print("Most people own at least " + str(first_list[1]) + " " + Second_List[0]+ "s")
+
+#Create a third variable and assign it the list [0.98, 8.76, 6.54, 4.32]
+Third_List = [0.98, 8.76, 6.54, 4.32]
