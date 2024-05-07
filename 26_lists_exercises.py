@@ -6,3 +6,6 @@ Second_List = list("exercise")
 
 #Use the keyword "in" to check if the letter "e" is in the list assigned to the variable
 print("e" in Second_List)
+
+#Use the keyword "not in" to check if the letter "a" is not in the list assigned to the variable
+print("a" not in Second_List)
