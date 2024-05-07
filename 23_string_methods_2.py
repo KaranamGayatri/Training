@@ -12,3 +12,6 @@ center_plus = the_string.center(16,"+")
 
 #Use print() to display the string assigned to center_plus.
 print(center_plus)
+
+#Call .lstrip() on the_string to remove "North" then print() the result.
+print(the_string.lstrip("North"))
