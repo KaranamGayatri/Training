@@ -15,3 +15,9 @@ arctic_animals.insert(2, "snowy owl")
 
 #Use the .sort() method to rearrange the strings in arctic_animals into alphabetical order
 arctic_animals.sort()
+
+#Use print() to display the list assigned to arctic_animals
+print(arctic_animals)
+
+#Use .index() to get the index number of "reindeer" from arctic_animals then print it
+print(arctic_animals.index("reindeer"))
