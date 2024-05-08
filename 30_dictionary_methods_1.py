@@ -22,3 +22,6 @@ print(songs.values())
 #use .items() with a for loop to iterate through and print all of the key value pairs from the dictionary
 for key, value in songs.items():
     print(key, value)
+
+#use the .get() method to check the dictionary for the key and create a message that will print if the key is not found in the dictionary
+print(songs.get("Promise of the Real", "The key is not found in the dictionary." ))
