@@ -5,4 +5,7 @@ for key, value in {}.fromkeys("bcdefghijklmnopqrstuvwxyz","consonant").items():
 #pop and print "Big Mac"
 fast_food_items = {"McDonald's": "Big Mac", "Burger King": "Whopper", "Chick-fil-A": "Original Chicken Sandwich"}
 print(fast_food_items.pop("McDonald's"))
- 
+
+#use .popitem() to remove the last key: value pair
+fast_food_items.popitem()
+print(fast_food_items)
