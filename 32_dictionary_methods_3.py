@@ -13,3 +13,6 @@ internet_celebrities.clear()
 
 #print internet_celebrities
 print(internet_celebrities)
+
+#print celebrities
+print(celebrities)
