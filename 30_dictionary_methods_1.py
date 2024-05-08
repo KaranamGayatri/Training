@@ -18,3 +18,7 @@ for key in songs.keys():
 
 #print all of the values from the dictionary using the .values() method
 print(songs.values())
+
+#use .items() with a for loop to iterate through and print all of the key value pairs from the dictionary
+for key, value in songs.items():
+    print(key, value)
