@@ -8,3 +8,6 @@ songs = {"Queen": "Bohemian Rhapsody",
          "Michael Jackson": "Billie Jean", 
          "The Beatles": "Hey Jude", 
          "Bob Dylan": "Like A Rolling Stone"}
+
+#print the length of the dictionary
+print(len(songs))
