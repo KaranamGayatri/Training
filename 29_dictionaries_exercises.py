@@ -6,3 +6,6 @@ print(dict["three"])
 
 #use the in keyword to check if a key appears in the dictionary and print the result
 print("one" in dict)
+
+#use not in to check if a key does not appear in the dictionary and print the result
+print("five" not in dict)
